@@ -1,4 +1,4 @@
-This Docker Container a simple nodeJS hello-world example
+This Docker Container contains a simple nodeJS hello-world example
 
 how to run:
 
