@@ -1,4 +1,4 @@
-This Docker Container contains HAProxy and a simple nodeJS service to update its configuration
+This Docker Container a simple nodeJS hello-world example
 
 how to run:
 
