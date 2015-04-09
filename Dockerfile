@@ -15,7 +15,7 @@ COPY . /src
 # Install app dependencies
 RUN cd /src; npm install
 
-EXPOSE  5000
+EXPOSE  3000
 
 #run start script
 CMD ["node","/src/index.js"]
